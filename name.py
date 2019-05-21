@@ -1,5 +1,5 @@
 name=input('Jak masz na imię?\n')
-age=int(input('Ile masz lat?\n')) # jak zadać to pytanie po sprawdzeniu imienia?
+age=int(input('Ile masz lat?\n'))
 if name=='Alicja':
     print('Cześć, Alicja')
 if age<12:
